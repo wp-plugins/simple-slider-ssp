@@ -1,4 +1,4 @@
-=== Slider ===
+=== WP Slider Plugin ===
 Contributors: Muneeb
 Donate link: http://muneeb.me/wordpress-slider-plugin/
 Tags: slider,slideshow,nivo,flexslider,skins,themes,best,responsive,gallery,muneeb,slider plugin
