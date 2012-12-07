@@ -1,0 +1,3 @@
+== Version 0.2 ==
+* Added support for the fixed width option for "Default Image Skin"
+* Fixed IE bug "Screen hang on image insert"
