@@ -37,6 +37,7 @@ The plugin is designed for users and the UI is very intuitive and easy to use. T
 * jQuery Nivo slider skin with 5 different themes/styles
 * Beautiful horizontal accordion skin
 * Simple carousel skin
+* Awesome liteAccordion Skin supports both IMAGE and HTML slide types
 * More cool skins are planned and all those skins will be free for premium users.
 * 24/7 Guaranteed Support
 
