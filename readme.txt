@@ -1,10 +1,10 @@
 === WP Slider Plugin ===
 Contributors: Muneeb
 Donate link: http://muneeb.me/wordpress-slider-plugin/
-Tags: slider,slideshow,nivo,flexslider,skins,themes,best,responsive,gallery,muneeb,slider plugin,image,posts,shortcode,links,page,plugin,slider plugin,best slider plugin
+Tags: slider,slideshow,nivo,flexslider,skins,themes,best,responsive,gallery,muneeb,slider plugin,image,posts,shortcode,links,page,plugin,slider plugin,best slider plugin,wordpress slider
 Requires at least: 3.0
 Tested up to: 3.5
-Stable tag: 0.5
+Stable tag: 0.6
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -37,9 +37,10 @@ The plugin is designed for users and the UI is very intuitive and easy to use. T
 * jQuery Nivo slider skin with 5 different themes/styles
 * Beautiful horizontal accordion skin
 * Simple carousel skin
-* Awesome liteAccordion Skin supports both IMAGE and HTML slide types
 * More cool skins are planned and all those skins will be free for premium users.
 * 24/7 Guaranteed Support
+* Convert the standard WP gallery shortcode to slider shortcode
+* Instagram Addon
 
 
 I hope you like and love my plugin in the same way like I do and to love it you have to actually install and use it. Please install the plugin and use it and then let me know your feedback [here](http://muneeb.me/contact)
