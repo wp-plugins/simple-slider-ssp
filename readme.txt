@@ -32,6 +32,7 @@ The plugin is designed for users and the UI is very intuitive and easy to use. T
  
 = Premium Features =
 
+* Flipbook skin, Create books, magazines,brochure etc and HTML slides are supported too.
 * Create slider from gallery images attached to a post or page
 * Responsive HTML skin supports HTML slide types
 * jQuery Nivo slider skin with 5 different themes/styles
@@ -64,6 +65,3 @@ http://muneeb.me/support/forum/wordpress-slider-plugin-2/
 == Screenshots ==
 
 For screenshots please visit the [WordPress Slider Plugin](http://muneeb.me/wordpress-slider-plugin/) page
-
-
-
