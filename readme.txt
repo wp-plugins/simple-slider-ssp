@@ -1,10 +1,10 @@
 === WP Slider Plugin ===
 Contributors: Muneeb
 Donate link: http://muneeb.me/wordpress-slider-plugin/
-Tags: slider,slideshow,nivo,flexslider,skins,themes,best,responsive,gallery,muneeb,slider plugin,image,posts,shortcode,links,page,plugin,slider plugin,best slider plugin,wordpress slider
+Tags: slider,responsive slider,slideshow,nivo,flexslider,skins,themes,best,responsive,gallery,muneeb,slider plugin,image,posts,shortcode,links,page,plugin,slider plugin,best slider plugin,wordpress slider
 Requires at least: 3.0
 Tested up to: 3.6
-Stable tag: 0.6
+Stable tag: 0.7
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -14,7 +14,7 @@ WordPress Slider Plugin is a  beautifully designed and an elegant plugin. It's a
 
 The WordPress slider plugin comes by default with a beautiful, responsive, modern and configurable slider skin. You can also extend the skin engine to use your own custom skins.
 
-The plugin is designed for users and the UI is very intuitive and easy to use. There are no functionality compromises made in the free version of the plugin if you do like the free version please purchase the [premium version](http://muneeb.me/wordpress-slider-plugin/) of the plugin for extra goodies and to support the future development of the plugin.
+The plugin is designed for users and the UI is very intuitive and easy to use. There are no major functionality compromises made in the free version of the plugin if you do like the free version please purchase the [premium version](http://muneeb.me/wordpress-slider-plugin/) of the plugin for extra goodies(listed below) and to support the future development of the plugin.
 
 = Features =
 
@@ -24,7 +24,6 @@ The plugin is designed for users and the UI is very intuitive and easy to use. T
 * Modern Drag and drop interface for reordering slides
 * Extendable with skins
 * WYSIWYG slide editor
-* Slides can have either pure HTML or only the image
 * Every slider is configurable and can have unique and different options
 * Touch gestures navigation for iOS, Android and other touch devices
 * Keyboard navigation support
@@ -34,6 +33,7 @@ The plugin is designed for users and the UI is very intuitive and easy to use. T
 
 * Flipbook skin, Create books, magazines,brochures etc and HTML slides are supported too.
 * Create slider from gallery images attached to a post or page
+* Slides can have either pure HTML or only the image
 * Responsive HTML skin supports HTML slide types
 * jQuery Nivo slider skin with 5 different themes/styles
 * Beautiful horizontal accordion skin
@@ -41,7 +41,7 @@ The plugin is designed for users and the UI is very intuitive and easy to use. T
 * More cool skins are planned and all those skins will be free for premium users.
 * 24/7 Guaranteed Support
 * Convert the standard WP gallery shortcode to slider shortcode
-* Instagram Addon
+* Instagram Addon - Automatically import instagram images and convert the images to slider.
 
 
 I hope you like and love my plugin in the same way like I do and to love it you have to actually install and use it. Please install the plugin and use it and then let me know your feedback [here](http://muneeb.me/contact)
@@ -65,3 +65,6 @@ http://muneeb.me/support/forum/wordpress-slider-plugin-2/
 == Screenshots ==
 
 For screenshots please visit the [WordPress Slider Plugin](http://muneeb.me/wordpress-slider-plugin/) page
+
+
+
