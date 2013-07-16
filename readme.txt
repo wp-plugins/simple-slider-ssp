@@ -1,7 +1,7 @@
 === WP Slider Plugin ===
 Contributors: Muneeb
 Donate link: http://muneeb.me/wordpress-slider-plugin/
-Tags: slider,responsive slider,slideshow,nivo,flexslider,skins,themes,best,responsive,gallery,muneeb,slider plugin,image,posts,shortcode,links,page,plugin,slider plugin,best slider plugin,wordpress slider
+Tags: slider,responsive slider,slideshow,nivo,flexslider,skins,themes,best,responsive,gallery,muneeb,slider,slider plugin,image,posts,shortcode,links,page,plugin,slider plugin,best slider plugin,wordpress slider
 Requires at least: 3.0
 Tested up to: 3.6
 Stable tag: 0.7
