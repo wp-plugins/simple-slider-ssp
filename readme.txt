@@ -8,11 +8,11 @@ Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-WordPress Slider Plugin is a  beautifully designed and an elegant plugin. It's a simple, very easy to use, modern and responsive slider plugin.
+WordPress Slider Plugin is a beautifully designed and an elegant plugin. It's simple, very easy to use, modern and responsive slider plugin.
 
 == Description ==
 
-The WordPress slider plugin comes by default with a beautiful, responsive, modern and configurable slider skin. You can also extend the skin engine to use your own custom skins.
+The WordPress slider plugin comes by default with a beautiful, responsive, modern and configurable slider skin. You can also extend the skin engine to use your own custom skins or get new skins with the [premium version](http://muneeb.me/wordpress-slider-plugin/).
 
 The plugin is designed for users and the UI is very intuitive and easy to use. There are no major functionality compromises made in the free version of the plugin if you do like the free version please purchase the [premium version](http://muneeb.me/wordpress-slider-plugin/) of the plugin for extra goodies(listed below) and to support the future development of the plugin.
 
