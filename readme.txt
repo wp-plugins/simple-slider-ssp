@@ -8,7 +8,7 @@ Stable tag: 1.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-WordPress Slider Plugin is a beautifully designed and an elegant plugin. It's simple, very easy to use, modern and responsive slider plugin.
+WordPress slider plugin is a beautifully designed and an elegant plugin. It's simple, very easy to use, modern and responsive slider plugin.
 
 == Description ==
 
