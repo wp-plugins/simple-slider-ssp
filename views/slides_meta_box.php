@@ -79,7 +79,7 @@
 								</label>
 
 								<p class="description">
-										<?php _e( 'This is used for naming the slide in different places and finding slides.', 'ssp' ); ?>
+										<?php _e( 'Used for naming the slide in different places and finding slides.', 'ssp' ); ?>
 								</p>
 								
 							</td>
@@ -94,7 +94,7 @@
 									<?php _e( 'Slide Type', 'ssp' ) ?>
 								</label>
 								<p class="description">
-									This is used by skins to display slides in correct format, and by plugin to show different input options
+									Used by skins to display slides in correct format, and by plugin to show different input options
 								</p>
 							</td>
 							<td>
