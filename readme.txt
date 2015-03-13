@@ -1,6 +1,6 @@
 === WP Slider Plugin ===
 Contributors: Muneeb
-Donate link: http://muneeb.me/wordpress-slider-plugin/?ref=donate_link
+Donate link: http://rocketplugins.com/wordpress-slider-plugin/
 Tags: slider,responsive slider,slideshow,nivo,flexslider,skins,themes,best,responsive,gallery,muneeb,slider,slider plugin,image,posts,shortcode,links,page,plugin,slider plugin,best slider plugin,wordpress slider,book,flipbook,easy,responsive gallery, nextgen, nextgen gallery, shortcode, admin, rocket,2015
 Requires at least: 3.0
 Tested up to: 4.1
@@ -12,9 +12,9 @@ WordPress slider plugin is a beautifully designed and an elegant plugin. It's si
 
 == Description ==
 
-The WordPress slider plugin comes by default with a beautiful, responsive, modern and configurable slider skin. You can also extend the skin engine to use your own custom skins or get new skins with the [premium version](http://muneeb.me/wordpress-slider-plugin/).
+The WordPress slider plugin comes by default with a beautiful, responsive, modern and configurable slider skin. You can also extend the skin engine to use your own custom skins or get new skins with the [premium version](http://rocketplugins.com/wordpress-slider-plugin/).
 
-The plugin is designed for users and the UI is very intuitive and easy to use. There are no major functionality compromises made in the free version of the plugin if you do like the free version please purchase the [premium version](http://muneeb.me/wordpress-slider-plugin/) of the plugin for extra goodies(listed below) and to support the future development of the plugin.
+The plugin is designed for users and the UI is very intuitive and easy to use. There are no major functionality compromises made in the free version of the plugin if you do like the free version please purchase the [premium version](http://rocketplugins.com/wordpress-slider-plugin/) of the plugin for extra goodies(listed below) and to support the future development of the plugin.
 
 = Features =
 
@@ -44,9 +44,9 @@ The plugin is designed for users and the UI is very intuitive and easy to use. T
 * Instagram Addon - Automatically import instagram images and convert the images to slider.
 
 
-I hope you like and love my plugin in the same way like I do and to love it you have to actually install and use it. Please install the plugin and use it and then let me know your feedback [here](http://muneeb.me/contact)
+I hope you like and love my plugin in the same way like I do and to love it you have to actually install and use it. Please install the plugin and use it and then let me know your feedback [here](http://rocketplugins.com/contact/)
 
-For more advanced features, skins and to get guaranteed support be sure to check out our premium version of the plugin, [WordPress Slider Plugin](http://muneeb.me/wordpress-slider-plugin/)
+For more advanced features, skins and to get guaranteed support be sure to check out our premium version of the plugin, [WordPress Slider Plugin](http://rocketplugins.com/wordpress-slider-plugin/)
 
 == Installation ==
 
@@ -64,7 +64,7 @@ http://muneeb.me/support/forum/wordpress-slider-plugin-2/
 
 == Screenshots ==
 
-For screenshots please visit the [WordPress Slider Plugin](http://muneeb.me/wordpress-slider-plugin/) page
+For screenshots please visit the [WordPress Slider Plugin](http://rocketplugins.com/wordpress-slider-plugin/) page
 
 
 
