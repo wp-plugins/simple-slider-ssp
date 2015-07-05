@@ -3,7 +3,7 @@ Contributors: Muneeb
 Donate link: http://rocketplugins.com/wordpress-slider-plugin/
 Tags: slider,responsive slider,slideshow,nivo,flexslider,skins,themes,best,responsive,gallery,muneeb,slider,slider plugin,image,posts,shortcode,links,page,plugin,slider plugin,best slider plugin,wordpress slider,book,flipbook,easy,responsive gallery, nextgen, nextgen gallery, shortcode, admin, rocket,photo,seo
 Requires at least: 3.0
-Tested up to: 4.2.2
+Tested up to: 4.3
 Stable tag: 1.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
